@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho atualmente como FullStack
 - 🌱 Estudando TypeScript e MongoDB
-- 📫 Contate-me no email: contatovictorcrisostomo@gmail.com
+- 📫 Contate-me no email: victor.vh340@gmail.com
 
 <div>
   <a href="https://github.com/Vict0r">
