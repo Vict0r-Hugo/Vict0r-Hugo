@@ -1,7 +1,6 @@
 ## Olá, eu sou Victor Hugo.
 
-- 🔭 Trabalho atualmente como Dev Backend 
-- 🌱 Estudando TypeScript e MongoDB
+- 🔭 Trabalho atualmente como Dev FullStack 
 - 📫 Contate-me no email: victor.vh340@gmail.com
 
 <div>
